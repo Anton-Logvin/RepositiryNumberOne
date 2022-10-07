@@ -1,0 +1,510 @@
+@media (max-width: 1425px){
+	.column-last {
+		flex-direction: row;
+		padding-top: 20px;
+		width: 100%;
+		justify-content: space-between;
+		flex-wrap: wrap;
+	}
+	.partners__logo-links {
+		/* flex: 1 1 33%; */
+	}
+	/* .page__partners {
+		flex: 0 1 50%;
+	}
+	.page__partners:last-child {
+		flex: 0 1 100%;
+	} */
+}
+
+@media (max-width: 1300px){
+	.page__main-block {
+		
+	}
+		.image-girl {
+		margin-top: 20px;
+	}
+	.item-girl1__images{
+
+	}
+	.about-us__block {
+		flex: 0 1 50%;
+	}
+	.about-us__block img{
+		height: auto;
+		width: 100%;
+	}
+	
+}
+@media (max-width: 1200px){
+	.container {
+		padding: 135px 20px 120px 20px;
+	}
+	.main-block__body {
+		/* margin-top: -150px */
+	}
+	.main-block__bacground-girl {
+		opacity: 0.7;
+	}
+	.main-block__title {
+		max-width: 40px;
+	}
+	/* .image-girl {
+		height: auto;
+		width: 100%;
+	} */
+	/* .healsfitnes-girl {
+		height: auto;
+		width: 100%;
+	} */
+	.image-vector {
+		display: none;
+	}
+	.page__partners {
+		/* margin-top: -100px; */
+		/* padding: 0px 20px; */
+	}
+	.item__girl1 {
+		padding-left: 50px;
+		padding-right: 5px;
+	}
+	.item__girl2 {
+		padding-right: 50px;
+		padding-left: 5px;
+	}
+	.about-us__background {
+		width: 100%;
+		height: auto;
+	}
+	.page__how-works {
+		padding: 100px 60px 0px 60px;
+	}
+	.how-works__discription-item {
+		margin: 0px 0px 10px 20px;
+	}
+	/* .media__item {
+		padding: 0px;
+	}  */
+	/* .media__item-box {
+		flex: 0 1 50%;
+	}   */
+	.page-media {
+		padding: 50px 50px;
+	}
+	.item-media__image img{
+		max-width: 100%;
+		height: auto;  
+	}
+	
+}
+
+@media (max-width: 1160px){
+	.page-partners__logo-column {
+		flex: 0 1 48%;
+		padding-top: 20px;
+	}
+	.column-last {
+		flex-direction: column;
+		
+		
+	} 
+}
+
+
+@media (max-width: 992px){
+	.header__buttoms {
+		margin: 0 auto;
+		
+	}
+	.header__buttoms {
+		padding-top: 40px;
+	}
+	.page__how-works {
+		padding: 100px 40px 0px 40px;
+		flex-direction: column;
+		
+	}
+	.how-works__discription-item {
+		margin: 10px 0px 10px 20px;
+	}
+	.how-works__account {
+		border-right: none;
+		margin: 0 auto;
+	}
+	.how-works__discription-text {
+		max-width: 90%;
+	}
+	/* .item-media__sub-title {
+		margin: 0px 0px 50px 0px;
+	}
+	.sub-title {
+		margin: 84px 0px 50px 0px;
+	} */
+	.footer__columns {
+		justify-content:space-between;
+	}
+	.footer__column {
+		padding-bottom: 40px;
+		flex: 0 1 50%;
+		}
+		.footer-title {
+			line-height: 150%;
+			padding: 100px 0px 50px 0px;
+		}
+		.footer__columns {
+			padding: 0px 50px 0px 50px;
+			
+		}
+}
+
+@media (max-width: 905px){
+	.main-block__container {
+		display: flex;
+		flex-direction: column;
+		margin-top: -170px;
+		/* background: url("../img/healsfitness/fitwoman.png") top right no-repeat; */
+		/* background-size: cover; */
+	}
+	.main-block__bacground-girl {
+		opacity: 0.3;
+		background-size: cover;
+		height: 80%;
+		
+	}
+	/* .main-block-box {
+		opacity: 0.9;
+	} */
+	.main-block__body {
+		margin: 0 auto;
+		
+	}
+	.main-block__title {
+		
+	}
+	.image-girl {
+		height: auto;
+		width: 50%;
+		padding-top: 160px;
+		margin: 0 auto;
+		left: 0;
+	}
+
+	.partners-title__block {
+		margin: 0 auto;
+		width: 70%;
+	}
+		.page__partners {
+			padding: 50px;
+		}
+	.page-partners__logo-column {
+		flex: 0 1 48%;
+		padding: 30px 0px;
+	}
+	
+	/* .column-last {
+		flex-direction: column;
+		
+	} */
+	.description__about-us {
+		margin: 0 auto;
+		width: 70%;
+	}
+	.about-us__item {
+		flex: 0 1 50%;
+	}
+	.page__customes {
+		padding: 40px 50px;
+		
+	}
+	.customes__header {
+		text-align: left;
+		
+	}
+	.customes__items {
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+	.customes__item {
+	}
+	.slider-image img {
+		/* width: 100%;
+		height: auto; */
+	}
+}
+
+@media (max-width: 800px){
+	.slider-item {
+		/* height: 50%;
+		flex-wrap: wrap; */
+	}
+	.slider-image img {
+		width: 100%;
+		height: auto;
+		min-height: 380px;
+		min-width: 250px;
+	}
+	.slider-image__photo-background {
+		display: none;
+	}
+}
+
+@media (max-width: 767px){
+	.about-us__block {
+		flex-direction: column;
+	}
+	.about-us__item {
+		
+	}
+	.item__girl1 {
+		padding: 30px 5px 30px 30px;
+	}
+	.text-about-us {
+		margin: 0 auto;
+	}
+	.item__girl2 {
+		padding: 50px 30px 0px 5px;
+		
+	}
+	.header-girl2 {
+		margin: 0 auto;
+		padding: 0px 0px 0px 30px;
+	}
+	.text-girl2 {
+		padding: 0px 0px 30px 0px;
+	}
+	.page__description {
+		
+	}
+	.media__items {
+		flex-direction: column;
+		justify-content: center;
+	}
+	.media__item {
+		margin: 0 auto;
+	}
+	.faqs__items  {
+		display: flex;
+		flex-direction: column;
+		padding: 50px 20px;
+	}
+	.customes__item {
+		padding: 100px 0px 0px 0px;
+	}
+
+	.footer__column {
+		/* padding-bottom: 40px;
+		flex: 0 1 48%; */
+	}
+}
+
+@media (max-width: 707px){
+	.header__menu {
+		margin: 0 auto;
+		padding-top: 20px;
+	}
+	.page__partners {
+		padding: 0px 10px;
+	}
+	.page-partners__title {
+		padding: 30px 0px 20px 20px;
+		line-height: 150%;
+	}
+	.customes__text{
+		min-width: 300px;
+	}
+	.slider-item {
+		
+		flex-wrap: wrap;
+	}
+	.slider-image {
+		margin: 0 auto;
+	}
+	.slider-image img {
+		height: auto;
+		max-width: 200px;
+	}
+}
+
+
+
+@media (max-width: 670px) {
+	.email-input-button {
+		padding: 18px 30px;
+	}
+	.footer__email {
+		flex-wrap: wrap;
+	}
+	.footer__email-button {
+		margin: 10px;
+	}
+	.item__girl1 {
+		padding-bottom: 0px;
+	}
+	.item__girl2 {
+		padding-top: 0px;
+	}
+	.page__how-works {
+		padding-top: 30px;
+	}
+}
+@media (max-width: 580px) {
+	.main-block__email {
+		
+	}
+	.page-partners__logo-column {
+		flex: 0 1 100%;
+	}
+	.column-last {
+		padding-top: 20px;
+	}
+	.faqs__item {
+		margin: 0px 10px;
+	}
+	.slider-image img{
+		max-height: 700px;
+	   
+	}
+	.slider-image__photo {
+		display: block;
+		position: relative;
+		bottom: 0px;
+		right: 10px;
+		z-index: 2;
+	}
+	.slider-image__photo-background {
+		position: absolute;
+		bottom: 0px;
+		right: 0px;
+	}
+		
+}
+@media (max-width: 575px) {
+	.customes__text {
+		font-size: 14px;
+		line-height: 1em;
+		padding: 10px 0px 20px 0px;
+		min-width: none;
+	}
+	.customes__manager {
+		padding-top: 10px;
+	}
+	.dotter-works {
+		display: none;
+	}
+	.header__container {
+		padding: 30px 10px 30px 10px;
+	}
+	.header__logo {
+		width: 100%;
+		text-align: center;
+	}
+	.menu__item {
+		padding: 18px 12px 0px 12px;
+	
+	}
+	.header__buttoms {
+		flex-wrap: nowrap;
+	}
+	.page-partners__logo-column {
+		padding: 20px;
+	}
+	.column-last {
+		padding-top: 0px;
+	}
+	.how-works__buttoms {
+		flex-wrap: wrap;
+		
+	}
+	.how-works__buttom {
+		width: 100%;
+		
+	}
+	.how-works__buttom:not(:last-child) {
+		margin: 0px;
+	}
+	.how-works__discription-item {
+		margin: 10px 0px 10px 0px;
+		padding: 20px 0px 30px 20px;
+	}
+	.how-works__plus-box {
+		right: 20px;
+		top: 30px;
+	}
+	.page-media {
+		padding: 0px 20px;
+	}
+	.media__item {
+		padding: 20px 30px;
+	}
+	.page__customes {
+		padding: 10px 20px;
+		
+	}
+	.customes__item {
+		padding: 50px 0px 0px 0px;
+	}
+	.footer-title {
+		padding: 40px 0px 40px 0px;
+	}
+	.footer__email {
+		padding: 0px 0px 70px 0px;
+	}
+}
+@media (max-width: 479px) {
+	
+	.main-block__title {
+		max-width: 250px;
+		font-size: 60px;
+		margin: 30px 0px 0px 0px;
+	}
+	.healsfitnes-and {
+		width: 50px;
+		left: 5px;
+	}
+	.title-fitness {
+		left: 40px;
+		top: 50px;
+	}
+	.main-block__email {
+		flex-direction: column;
+		border: none
+	}
+	.email-input {
+		padding: 18px;
+		border: 2px solid #000;
+		border-radius: 5px;
+		width: 100%;
+	}
+	.email-input-button {
+		border-radius: 5px;
+	}
+	.text-about-us {
+		margin: 30px 10px 0px -15px;
+	}
+	.customes__item-image img{
+		max-width: 100%;
+	}
+	.item-image__man-bacground {
+		display: none;
+	}
+	.footer__email-input {
+		padding: 0px 0px 32px 15px;
+		width: 95%;
+	}
+	.footer__columns {
+		flex-direction: column;
+		align-items: center;
+	}
+	.footer__column-fitness {
+		text-align: center;
+		padding: 0px 30px 30px 0px;
+		max-width: 250px;
+	}
+	.column-footer__link {
+		padding: 0px 0px 14px 0px;
+	}
+	.customes__item-title {
+		font-size: 28px;
+		padding: 0px 0px 0px 20px;
+	}
+}
