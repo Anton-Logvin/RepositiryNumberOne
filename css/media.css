@@ -49,20 +49,12 @@
 	.main-block__title {
 		max-width: 40px;
 	}
-	/* .image-girl {
-		height: auto;
-		width: 100%;
-	} */
-	/* .healsfitnes-girl {
-		height: auto;
-		width: 100%;
-	} */
+
 	.image-vector {
 		display: none;
 	}
 	.page__partners {
-		/* margin-top: -100px; */
-		/* padding: 0px 20px; */
+		
 	}
 	.item__girl1 {
 		padding-left: 50px;
@@ -82,12 +74,7 @@
 	.how-works__discription-item {
 		margin: 0px 0px 10px 20px;
 	}
-	/* .media__item {
-		padding: 0px;
-	}  */
-	/* .media__item-box {
-		flex: 0 1 50%;
-	}   */
+
 	.page-media {
 		padding: 50px 50px;
 	}
@@ -113,11 +100,11 @@
 
 @media (max-width: 992px){
 	.header__buttoms {
-		margin: 0 auto;
+		/* margin: 0 auto; */
 		
 	}
 	.header__buttoms {
-		padding-top: 40px;
+		/* padding-top: 40px; */
 	}
 	.page__how-works {
 		padding: 100px 40px 0px 40px;
@@ -134,12 +121,7 @@
 	.how-works__discription-text {
 		max-width: 90%;
 	}
-	/* .item-media__sub-title {
-		margin: 0px 0px 50px 0px;
-	}
-	.sub-title {
-		margin: 84px 0px 50px 0px;
-	} */
+
 	.footer__columns {
 		justify-content:space-between;
 	}
@@ -310,7 +292,7 @@
 		line-height: 150%;
 	}
 	.customes__text{
-		min-width: 300px;
+		display: none	;
 	}
 	.slider-item {
 		
